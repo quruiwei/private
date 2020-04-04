@@ -1,1 +1,5 @@
-가가가가가가가가가가가가가가가가가가가가가가
+class a {
+public  void name(){
+printlin("qqqqq")
+}
+}
