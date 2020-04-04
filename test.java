@@ -1,7 +1,4 @@
-class a {
+public void test£¨£©£û
+println("qqqqqqqqqqqqqq")
+£ý
 
-public  void test(){
-println("qqqqqqqqqqqqqqqq")
-}
-
-}
